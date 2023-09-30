@@ -1,0 +1,3 @@
+[submodule "shopping_app_frontend"]
+	path = shopping_app_frontend
+	url = https://github.com/Siddharthaaa21/nodejs_microservice.git
